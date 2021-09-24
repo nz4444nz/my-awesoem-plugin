@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nz4444nz.myawesoemplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nz4444nz.myawesoemplugin.MyBundle
 
 class MyApplicationService {
 
